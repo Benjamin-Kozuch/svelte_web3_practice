@@ -32,4 +32,4 @@ export const abi = [
         type: "function",
     },
 ];
-export const address = "0x152A73F786aa61D6453B4736575c5F5D7F887913";
+export const address = "0xf83a92080d080fb5CDf134cB756D0741Eb90acc2";
